@@ -1,0 +1,21 @@
+cjb06,Radiohead,Jigsaw Falling Into Place,CD,Alternative Rock,2011-09-18
+hls05,MF DOOM,One Beer,Tape,Hip Hop,2008-04-04
+apb11,TV Girl,Lovers Rock,Vinyl,Indie Pop,2017-08-05
+njf05,Kendrick Lamar,i,CD,Hip Hop,2016-07-04
+aut04,Phoebe Bridgers,Kyoto,Vinyl,Indie Pop,2017-04-21
+jof07,Travis Scott,FE!N,CD,Hip Hop,2017-10-16
+rah06,The Cranberries,Linger,Tape,Indie Pop,2011-05-25
+tos05,The Beatles,Eleanor Rigby,Tape,Rock,2006-12-24
+dgp02,Deftones,Xerces,Vinyl,Alternative Rock,2017-01-27
+bpw01,The Strokes,Machu Picchu,Tape,Alternative Rock,2016-05-18
+jkl07,Tame Impala,Elephant,CD,Alternative Rock,2018-02-22
+cps09,2Pac,Changes,Tape,Hip Hop,2005-07-14
+jjc05,AC/DC,Thunderstruck,CD,Rock,2008-03-31
+cmc99,Lionel Richie,Dancing On The Ceiling,Vinyl,R&B,2010-11-13
+mcd00,ABBA,Dancing Queen,CD,Pop,2015-03-18
+tpf07,Sex Pistols,Anarchy In The UK,Tape,Punk Rock,2012-06-09
+mpb09,Adele,Skyfall,CD,Pop,2017-04-28
+rss00,The Police,Roxanne,CD,Rock,2009-09-01
+glm97,Green Day,Basket Case,Tape,Punk Rock,2007-02-21
+aph03,The Clash,Rock The Casbah,Tape,Punk Rock,2009-12-13
+ogr04,Michael Jackson,Thriller,Vinyl,R&B,2012-10-04
