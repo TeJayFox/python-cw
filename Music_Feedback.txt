@@ -48,4 +48,5 @@ mcd00,2,
 aph03,4,
 rah06,3,Alright
 jjc05,2,
-njf05,4,cps09bpw01,4,
+njf05,4,
+bpw01,4,
